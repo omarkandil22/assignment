@@ -1,0 +1,7 @@
+x=10
+l = [15,6,7,10,12,20,10,28]
+count1 = 0
+for i in l:
+    if(x==i):
+        count1=count1+1
+print(count1)
